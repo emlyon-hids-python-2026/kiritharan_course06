@@ -5,7 +5,7 @@ Course work of week 6.
 ## Installation
 
 ```bash
-git clone https://github.com/emlyon-hids-python-2026/kiritharan_course06.gitgit
+git clone https://github.com/emlyon-hids-python-2026/kiritharan_course06.git
 cd kiritharan_course06
 uv sync
 ```
