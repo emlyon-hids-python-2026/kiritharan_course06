@@ -1,7 +1,7 @@
 [project]
 name = "kiritharan-course06"
 version = "0.1.0"
-description = "Add your description here"
+description = "Course work of week 6: MedicStore sales reporting."
 readme = "README.md"
 authors = [
     { name = "Kirishana Kiritharan", email = "kirishana.kiritharan@edu.em-lyon.com" }
