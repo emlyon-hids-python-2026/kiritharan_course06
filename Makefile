@@ -6,8 +6,8 @@ help:  ## Show available commands
 install:  ## Install dependencies
      uv sync
 
-run:  ## Run the demo script
-     uv run python scripts/demo.py
+run:  ## Run the MedicStore analysis
+	uv run python scripts/analysis_functions.py
 
 lint:  ## Check code with ruff
      uv run ruff check .
